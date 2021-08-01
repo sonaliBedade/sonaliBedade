@@ -7,13 +7,16 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Data Science, Reactjs and Competitive Programming 
-- 👯 I’m looking to collaborate on projects that will help me grow
+- 👯 I’m looking to collaborate for a wholesome learning experience
 - 📫 How to reach me: Let's connect!
 <p><a href= "https://www.linkedin.com/in/sonali-bedade-0519071ab/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="socials"/></a> <a href="http://www.gmail.com/" target="blank"><img align="center" src="https://img.shields.io/badge/sonalibedade15@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="socials"/></a></p>
 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I find cats cute but I'm kinda afraid of them
 
-[![Sonali's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonaliBedade&show_icons=true&title_color=3c005a&text_color=3c005a&icon_color=204161&border_color=eabfff&bg_color=eabfff)](https://github.com/sonaliBedade/github-readme-stats)
+[![Sonali's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonaliBedade&show_icons=true&title_color=3c005a&text_color=3c005a&icon_color=3c005a&border_color=ffffff&bg_color=f7f4f1)](https://github.com/sonaliBedade/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sonaliBedade&background=f7f4f1&stroke=3c005a&ring=3c005a&fire=3c005a&currStreakNum=3c005a&sideNums=3c005a&currStreakLabel=3c005a&sideLabels=3c005aa&dates=3c005a)](https://git.io/streak-stats)
+
 
 
