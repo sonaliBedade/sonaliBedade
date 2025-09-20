@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently pursuing Masters' in Applied Data Science at University of Southern California
-- 👯 I’m looking to collaborate for a wholesome learning experience
+- 🌱 I recently completed my Masters in Applied Data Science from University of Southern California
+- 👯 I’m looking to full time opportunities in ML/AI and Software Engineering
 - 📫 How to reach me: Let's connect!
 <p><a href= "https://www.linkedin.com/in/sonali-bedade/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="socials"/></a> <a href="http://www.gmail.com/" target="blank"><img align="center" src="https://img.shields.io/badge/sonalibedade15@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="socials"/></a></p>
 
