@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I recently completed my Masters in Applied Data Science from University of Southern California
 - 👯 I’m looking to full time opportunities in ML/AI and Software Engineering
 - 📫 How to reach me: Let's connect!
-<p><a href= "https://www.linkedin.com/in/sonali-bedade/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="socials"/></a> <a href="http://www.gmail.com/" target="blank"><img align="center" src="https://img.shields.io/badge/sonalibedade15@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="socials"/></a></p>
+<p><a href= "https://www.linkedin.com/in/sonali-bedade/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="socials"/></a> <a href="http://www.gmail.com/" target="blank"><img align="center" src="https://img.shields.io/badge/bedadesonali15@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="socials"/></a></p>
 
 <p align="left">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sonaliBedade&show_icons=true&title_color=3c005a&text_color=3c005a&icon_color=3c005a&bg_color=f7f4f1)](https://github.com/sonaliBedade/github-readme-stats)"/>
